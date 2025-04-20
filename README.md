@@ -1,8 +1,11 @@
 # mytools
-自作業用ツール群
-My tools for own work
+自作業用ツール群<br>
+My tools for own work<br>
 
-これらツール群を参照される方々へ
-これらツール群は無保証であり、保守する予定はありません。そのため、参照しこれらを使用する場合は自己責任でお願いいたします。作者は参照し使用された方々に何が起こっても責任を負いません。
-To people who will be refering these tools
-I AM PLANNING NOTHING TO ASSURE THIS PRODUCTS. THESE ARE NOT GUARANTEED AT ALL. So you must take your own risk.
+これらツール群を参照される方々へ<br>
+これらツール群は**無保証**であり、保守する予定はありません。そのため、**これらを参照し使用する場合は自己責任**でお願いいたします。**作者は参照し使用された方々に何が起こっても責任を負いません。**<br>
+To people who will be refering these tools<br>
+**I AM PLANNING NOTHING TO ASSURE THIS PRODUCTS. THESE ARE NOT GUARANTEED AT ALL. So you must take your own risk.**<br>
+
+## LC(Logic Comparator)
+ No description at this time.<br>
