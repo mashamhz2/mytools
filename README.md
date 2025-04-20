@@ -8,4 +8,5 @@ To people who will be refering these tools<br>
 **I AM PLANNING NOTHING TO ASSURE THIS PRODUCTS. THESE ARE NOT GUARANTEED AT ALL. So you must take your own risk.**<br>
 
 ## LC(Logic Comparator)
- No description at this time.<br>
+About caps from C6 to C24<br>
+It's not necessary to install these caps at this time.<br>
