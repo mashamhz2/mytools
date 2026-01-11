@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_01x32","DIP-32_W15.24mm_Socket",3.974500,-3.340000,0.000000,top
+"R1","10k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",16.680000,-46.520000,180.000000,top
+"R2","10k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",16.680000,-50.330000,180.000000,top
+"R3","10k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",16.680000,-54.140000,180.000000,top
+"U2","ZIF SOCKET","DIP_Socket-28_W11.9mm_W12.7mm_W15.24mm_W17.78mm_W18.5mm_3M_228-1277-00-0602J",28.110000,-11.087000,0.000000,top

@@ -1,0 +1,17 @@
+"ID";"指定子";"フットプリント";"数量";"名称";"供給業者、参考資料";
+1;"SW5";"[秋月]SW_TVGP01-G73BB";1;"E/5";;;
+2;"SW7";"[秋月]SW_TVGP01-G73BB";1;"G/7";;;
+3;"SW19";"[秋月]SW_ts0606";1;"W-up/W-up";;;
+4;"SW16";"[秋月]SW_1273HIM-160G-G";1;"Start/Start";;;
+5;"SW1";"[秋月]SW_TVGP01-G73BB";1;"A/1";;;
+6;"SW17";"[秋月]SW_ts0606";1;"Bet/Bet";;;
+7;"SW2";"[秋月]SW_TVGP01-G73BB";1;"B/2";;;
+8;"SW4";"[秋月]SW_TVGP01-G73BB";1;"D/4";;;
+9;"SW28";"[秋月]SW_1273HIM-160G-G";1;"COIN";;;
+10;"SW20";"[秋月]SW_ts0606";1;"Big/Big";;;
+11;"SW6";"[秋月]SW_TVGP01-G73BB";1;"F/6";;;
+12;"SW3";"[秋月]SW_TVGP01-G73BB";1;"C/3";;;
+13;"SW15";"[秋月]SW_ts0606";1;"Payout/F.F";;;
+14;"SW21";"[秋月]SW_ts0606";1;"Small/Small";;;
+15;"SW18";"[秋月]SW_ts0606";1;"T.Score/T.Score";;;
+16;"J2";"PinHeader_2x10_P2.54mm_Horizontal";1;"A-B_conn";;;

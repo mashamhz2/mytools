@@ -1,0 +1,8 @@
+"ID";"指定子";"フットプリント";"数量";"名称";"供給業者、参考資料";
+1;"TR1";"[秋月]SANSUI_ST-71_ST-71P";1;"Sansui ST-71/ST-71P";;;
+2;"RV1";"ALPS_RK09D11XX";1;"10K(B)";;;
+3;"R2";"R_Axial_DIN0414_L11.9mm_D4.5mm_P7.62mm_Vertical";1;"100(1W)";;;
+4;"J2";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"Output";;;
+5;"R1";"R_Axial_DIN0414_L11.9mm_D4.5mm_P7.62mm_Vertical";1;"100(2W)";;;
+6;"J1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"Input";;;
+7;"C1";"CP_Radial_D6.3mm_P2.50mm";1;"47u/50v";;;
