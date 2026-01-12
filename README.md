@@ -7,7 +7,7 @@ My tools for own work<br>
 **I AM PLANNING NOTHING TO ASSURE THIS PRODUCTS. THESE ARE NOT GUARANTEED AT ALL. So you must take your own risk.**<br>
 
 ## LC(Logic Comparator)
-EXORを使ったロジックコンパレータです。自作なので動作は多分怪しいでしょう。アーケード基板の故障解析で、まぁまぁ使えたのでマイツールに登録。<br>
+EXORを使ったロジックコンパレータです。自作なので動作は多分怪しいでしょう。アーケード基板の故障解析でまぁまぁ使えたので、マイツールに登録。<br>
 ### About caps from C6 to C24
 It's not necessary to install these caps at this time.<br>
 
